@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="TR">
 <meta name="distribution" content="Global">
-<base href="https://filmekseni.biz/">
+<base href="https://yk-tubee.github.io/YK-TUBE/">
 <title>Film izle | Türkçe Dublaj film izle ⚡️ YK TUBE FilmEkseni</title>
 <!--[if lt IE 9]>
 <script src=https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js></script>
