@@ -48,7 +48,7 @@
 	<div id="wrap">
 		<div id="header">
 			<div class="headerleft">
-								<a href="">https://filmekseni.biz/apple-touch-icon.png<img src="logorawlinki" alt=İzle Film | Film izle &#8211; En iyi filmleri hd izle" /></a>
+								<a href=""> <img src="logorawlinki" alt=İzle Film | Film izle &#8211; En iyi filmleri hd izle" /> </a>
 					
 			</div>
 			<div class="headerright">
