@@ -9,7 +9,7 @@
 <meta name="geo.placename" content="Turkey" />
 <meta name="location" content="türkiye, tr, turkey" />
 <meta name="google" content="notranslate" />
-<title>İzle Film | Film izle - En iyi filmleri hd izle</title>
+<title>YK TUBE | Film izle - En iyi filmleri hd izle</title>
 
 <meta http-equiv="refresh" content="180">
 
@@ -48,7 +48,7 @@
 	<div id="wrap">
 		<div id="header">
 			<div class="headerleft">
-								<a href="https://www.izle.film"><img src="https://www.izle.film/wp-content/uploads/2022/09/izle.film_.png" alt="İzle Film | Film izle &#8211; En iyi filmleri hd izle" /></a>
+								<a href="site url"><img src="logorawlinki" alt="İzle Film | Film izle &#8211; En iyi filmleri hd izle" /></a>
 					
 			</div>
 			<div class="headerright">
@@ -63,7 +63,7 @@
 <li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.izle.film/turkce-altyazili-filmler">Türkçe Altyazılı Filmler</a></li>
 <li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://www.izle.film/turkce-dublaj-filmler">Türkçe Dublaj Filmler</a></li>
 <li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://www.izle.film/yerli-filmler">Yerli Filmler</a></li>
-<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.izle.film/iletisim">İletişim</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="  "> </a> </li>
 </ul>								<a href="javascript:void(0);" class="icon" onclick="navmenufunc()">
 					<i class="fas fa-bars"></i>
 				</a>
@@ -643,7 +643,7 @@
     </div>
 <div id="footer">
 	<div class="footerleft">
-		Copyright &copy; 2025 <a href="https://www.izle.film">İzle Film | Film izle - En iyi filmleri hd izle</a></br><span>Tüm Hakları Saklıdır</span>	</div>
+		Copyright &copy; 2025 <a href="https://www.izle.film">YK TUBE | Film izle - En iyi filmleri hd izle</a></br><span>Tüm Hakları Saklıdır</span>	</div>
 			<div class="footeright">
 	    					    		<a href="https://www.izle.film/iletisim" class="iletisimlink">İletişim</a>
 	</div>
