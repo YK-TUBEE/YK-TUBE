@@ -73,7 +73,7 @@
 	<div class="container-fluid">
  <div class="collapse navbar-collapse" id="topNav">
  <ul class="navbar-nav me-auto mb-2 mb-md-0 text-center">
- <li class="nav-item"><a href="https://filmekseni.biz/" class="nav-link">Anasayfa</a></li>
+ <li class="nav-item"><a href="https://yk-tubee.github.io/YK-TUBE/" class="nav-link">Anasayfa</a></li>
  <li class="nav-item"><a href="https://filmekseni.biz/kesfet/" class="nav-link">Keşfet</a></li>
  <li class="nav-item dropdown">
  <div class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button">Film Türleri</div>
