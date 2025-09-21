@@ -122,7 +122,7 @@
  </ul>
  </li>
  <li class="nav-item "><a href="https://filmekseni.biz/seri-filmler/" class="nav-link">Seri Filmler</a></li>
- <li class="nav-item ">ykteamuygulamalar.wordpress.com<a href=" " class="nav-link">Uygulamalarımız</a></li>
+ <li class="nav-item ">     <a href=" " class="nav-link">      </a></li>
  </ul>
  </div>
 	</div>
