@@ -643,9 +643,9 @@
     </div>
 <div id="footer">
 	<div class="footerleft">
-		Copyright &copy; 2025 <a href="https://www.izle.film">YK TUBE | Film izle - En iyi filmleri hd izle</a></br><span>Tüm Hakları Saklıdır</span>	</div>
+		Copyright &copy; 2025 <a href="https://yk-tubee.github.io/YK-TUBE/">YK TUBE | Film izle - En iyi filmleri hd izle</a></br><span>Tüm Hakları Saklıdır</span>	</div>
 			<div class="footeright">
-	    					    		<a href="https://www.izle.film/iletisim" class="iletisimlink">İletişim</a>
+	    					    		<a href=" " class="iletisimlink">      </a>
 	</div>
 	</div>
 <script type="speculationrules">
